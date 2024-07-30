@@ -1,13 +1,14 @@
 {
   "name": "signup-form",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A signup form backend using Express and MongoDB",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
